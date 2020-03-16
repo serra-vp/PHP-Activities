@@ -16,6 +16,7 @@ class Fire implements Element{
   }
 }
 
+
 class Air implements Element{
   public function characteristics(){
     return ['1','2','3','4','5','6','7','8','9','10'];
